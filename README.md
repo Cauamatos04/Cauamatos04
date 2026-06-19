@@ -66,20 +66,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-origi
         alt="GitHub Stats"
         height="200"
         style="padding-right: 10px;"
-        src="https://github-readme-stats.vercel.app/api?username=Cauamatos04&show_icons=true&theme=dark&locale=pt-br&rank_icon=github"
+        src="https://github-readme-stats.vercel.app/api?username=Cauamatos04&show_icons=true&theme=dark&locale=pt-br&hide=contribs"
     />
-    
-<img
-    align="left"
-    alt="GitHub Streak"
-    height="200"
-    src="https://streak-stats.demolab.com?user=Cauamatos04&theme=dark&locale=pt_BR"
-/>
 </p>
 
 <img 
     align="left" 
-    alt="Tecnologias"
-    height="200"
+    alt="GitHub Stats" 
+    height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cauamatos04&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9"
 />
