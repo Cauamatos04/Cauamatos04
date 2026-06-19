@@ -69,12 +69,12 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-origi
         src="https://github-readme-stats.vercel.app/api?username=Cauamatos04&show_icons=true&theme=dark&locale=pt-br&rank_icon=github"
     />
     
-    <img
-        align="left"
-        alt="GitHub Streak"
-        height="200"
-        src="https://streak-stats.demolab.com?user=Cauamatos04&theme=dark&locale=pt_BR"
-    />
+<img
+    align="left"
+    alt="GitHub Streak"
+    height="200"
+    src="https://streak-stats.demolab.com?user=Cauamatos04&theme=dark&locale=pt_BR"
+/>
 </p>
 
 <img 
