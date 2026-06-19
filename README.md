@@ -66,7 +66,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-origi
         alt="GitHub Stats"
         height="200"
         style="padding-right: 10px;"
-        src="https://github-readme-stats.vercel.app/api?username=Cauamatos04&show_icons=true&theme=dark&locale=pt-br&rank_icon=github&hide=contribs"
+        src="https://github-readme-stats.vercel.app/api?username=Cauamatos04&show_icons=true&theme=dark&locale=pt-br&rank_icon=github&hide=commits"
     />
 </p>
 
